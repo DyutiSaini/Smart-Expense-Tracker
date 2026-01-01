@@ -1,12 +1,3 @@
-// const loginbutton = document.querySelector(".btn");
-// const forgotPassword = document.querySelector(".forgot-link");
-// forgotPassword.addEventListener("click", () => {
-//   const container1 = document.querySelector(".container");
-//   if (container1) {
-//     container1.remove();
-//   }
-// });
-
 function togglepart() {
   const input = document.getElementById("password");
   input.type = input.type === "password" ? "text" : "password";
@@ -52,7 +43,6 @@ function showSignupForm() {
     
     <div class="password-field">
       <input type="password" placeholder="Create Password" class="field" id="password" />
-      <button onclick="togglepart()"><img src="icon.jpg" id="icon" /></button>
     </div>
     
     <input type="checkbox" id="terms" />
@@ -208,3 +198,4 @@ function formValidation() {
 document.addEventListener("DOMContentLoaded", function () {
   showWelcomePage();
 });
+
