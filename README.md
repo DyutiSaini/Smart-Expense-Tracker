@@ -15,4 +15,5 @@ A responsive expense tracking web application built with HTML, CSS, and JavaScri
 - JavaScript
 
 ## Live Demo
+https://dyutisaini.github.io/Smart-Expense-Tracker/
 
