@@ -1,7 +1,4 @@
-// function togglepart() {
-//   const input = document.getElementById("password");
-//   input.type = input.type === "password" ? "text" : "password";
-// }
+
 function formValidation() {
   const usernameInput = document.getElementById("username");
   const input = document.getElementById("password");
@@ -198,5 +195,6 @@ function formValidation() {
 document.addEventListener("DOMContentLoaded", function () {
   showWelcomePage();
 });
+
 
 
