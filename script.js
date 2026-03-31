@@ -879,19 +879,19 @@ function togglepart() {
 
 // // ======================= AUTO LOGIN CHECK =======================
 
-document.addEventListener("DOMContentLoaded", async () => {
-  try {
-    const res = await fetch(`${BASE_URL}/api/v1/expense`, {
-      method: "GET",
-      credentials: "include",
-    });
+// document.addEventListener("DOMContentLoaded", async () => {
+//   try {
+//     const res = await fetch(`${BASE_URL}/api/v1/expense`, {
+//       method: "GET",
+//       credentials: "include",
+//     });
 
-    if (res.ok) {
-      showDashboard();
-    } else {
-      showWelcomePage();
-    }
-  } catch {
-    showWelcomePage();
-  }
-});
+//     if (res.ok) {
+//       showDashboard();
+//     } else {
+//       showWelcomePage();
+//     }
+//   } catch {
+//     showWelcomePage();
+//   }
+// });
