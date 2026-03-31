@@ -212,7 +212,7 @@
 
 // ======================= LOGIN =======================
 
-const BASE_URL = "https://smart-expense-tracker-backend-uocq.onrender.com";
+const BASE_URL = "https://smart-expense-tracker-backend-1.onrender.com";
 
 async function formValidation() {
   const usernameInput = document.getElementById("username");
