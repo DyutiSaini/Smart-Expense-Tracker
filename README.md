@@ -138,5 +138,3 @@ B.Tech CSE (Artificial Intelligence)
 Indira Gandhi Delhi Technical University for Women (IGDTUW)
 
 ---
-
-⭐ If you found this project useful, consider giving the repository a star.
