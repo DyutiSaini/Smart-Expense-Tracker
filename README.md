@@ -134,7 +134,7 @@ During the development of this project, I gained practical experience in:
 
 **Dyuti Saini**
 
-B.Tech CSE (Artificial Intelligence)
+B.Tech CSE-AI
 Indira Gandhi Delhi Technical University for Women (IGDTUW)
 
 ---
